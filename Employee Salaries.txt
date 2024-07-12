@@ -1,0 +1,7 @@
+Alex	 $106,280 
+Jones	 $135,049 
+Parker	 $217,238 
+Tom	 $63,569 
+Henry	 $203,418 
+Matieu	 $179,026 
+
